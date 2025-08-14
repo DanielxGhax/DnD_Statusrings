@@ -1,0 +1,14 @@
+{
+    "bottom_surface_pattern": "octagramspiral",
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.08mm Extra Fine @BBL X1C",
+    "ironing_pattern": "concentric",
+    "ironing_type": "top",
+    "is_custom_defined": "0",
+    "name": "Statusrings",
+    "print_settings_id": "Statusrings",
+    "sparse_infill_pattern": "gyroid",
+    "top_surface_pattern": "octagramspiral",
+    "version": "1.10.0.35"
+}
